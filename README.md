@@ -8,6 +8,19 @@
  
 <br><br>
 
+## &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/david-felipe-1022821b6" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-David-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/davidfelipemonte" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-David-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+
+<br><br>
+
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
