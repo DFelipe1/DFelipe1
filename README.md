@@ -4,12 +4,11 @@
 
 <div>
 - Pode me chamar de feeh ✌ <br>
-- Me aperfeiçoando cada dia um pouco mais com a programação <br>
-- Formado em Técnico em informática pela FAETEC <br>
-- Voltado mais para o Fornt-end, mas me aventuro em Back as vezes<br>
-- Adoro jogar, ouvir musica e assistir podcast <br>
-- Amo tomar um café  <br>
-- Atualmente estudando back-end <br>
+- Formado em Técnico em informática pela FAETEC; <br>
+- Atualmente aprimorando minhas habilidades em React, typescript, tailwind, Figma, Storybook, Node e SLQ;<br>
+- Adoro jogar, ouvir musica e assistir podcast; <br>
+- Amo tomar um café;  <br>
+- Me aperfeiçoando cada dia para obter minha primeira oportunidade como dev; <br>
 </div>
  
  ***************
