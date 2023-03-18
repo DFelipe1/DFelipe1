@@ -4,7 +4,7 @@
 
 <div>
 - Pode me chamar de feeh ✌ <br>
-- Formado em Técnico em informática pela FAETEC; <br>
+- Formado em Técnico em informática pela ETEC; <br>
 - Atualmente aprimorando minhas habilidades em React, typescript, tailwind, Figma, Storybook, Node e SLQ;<br>
 - Adoro jogar, ouvir musica e assistir podcast; <br>
 - Amo tomar um café;  <br>
