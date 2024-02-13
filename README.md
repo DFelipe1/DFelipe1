@@ -1,69 +1,34 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F0071&height=160&section=header&text=David%20Felipe🚀&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+# 👋🏾 Olá, Eu me chamo David Felipe !! 
+Desenvolvedor Frontend e UI designer, entusiasta de tecnologia e criação/criatividade. Atualmente estudando e pregando pequenos Freelas!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F0071&center=true&vCenter=true&width=500&lines=Dev+Front-end+Junior)](https://git.io/typing-svg)
-
-<div>
-- Pode me chamar de feeh ✌ <br>
-- Formado em Técnico em informática pela ETEC; <br>
-- Atualmente aprimorando minhas habilidades em React, typescript, tailwind, Figma, Storybook, Node e SLQ;<br>
-- Adoro jogar, ouvir musica e assistir podcast; <br>
-- Amo tomar um café;  <br>
-- Me aperfeiçoando cada dia para obter minha primeira oportunidade como dev; <br>
-</div>
- 
- ***************
-
-<div align="center">
-  <a href="https://github.com/DFelipe1>
-   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DFelipe1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DFelipe1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DFelipe1&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
- 
-                                                                                                                                               
-<h2 align="center">Linguagens e Ferramentas</h2>
-  <h3 align="center">Front End</h3>
-  <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/css3/3F0071" /> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/html5/3F0071"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/3F0071"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/react/3F0071"/>         
-  </p>
-  
-  <h3 align="center">Back End</h3>
-  <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/3F0071"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/express/3F0071"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/3F0071"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/prisma/3F0071"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/jest/3F0071"/>           
-  </p>
-  
-  <h3 align="center">Banco de Dados</h3>
-  <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/3F0071"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/3F0071"/>   
-  </p>
-  
-  <h3 align="center">DevOps</h3>
-  <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/docker/3F0071"/>      
-  </p>
-  
-  <h3 align="center">Ferramentas</h3>
-  <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio/3F0071"/>    
-    <img height="40" width="40" src="https://cdn.simpleicons.org/figma/3F0071"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/git/3F0071"/> 
-  </p>
- 
-***************
-
-<h2 align="center">Entre em contato:</h2>
-<p align="center">
-<a href = "mailto:felipe30.10@outlook.com"><img src="https://img.shields.io/badge/Gmail-1C6B94?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
-<a href="https://www.linkedin.com/in/lipedev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1C6B94?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ ## 💻 Perícia
+<p> Atualmente estou em busca de uma oportunidade, Frontend junior. E sigo desenvolvendo landing page para comércios locais </p>
+<p>
+Busco resolver o problema das pessoas através da tecnologia, de forma visualmente simples e agradável. Sou muito grato de ter feito um curso técnico em informática, que me fez conhecer esse mundo de Desenvolvimento que até então não fazia ideia de como era, e agora através disso posso estar ajudando pessoas com meu conhecimento.
 </p>
 
+  ### 🛠 Tech Stack
+  <div>
+  <img src="https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  </div>
+
+  ### 🌍 Socials: 
+  <a href="https://www.instagram.com/feeh7k/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">   </a>
+  <a href="https://www.linkedin.com/in/lipedev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+
+<br>
+<div>
+  <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=DFelipe1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" margin-right="5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DFelipe1&layout=compact&langs_count=7&theme=radical"/>
+</div>
+<br>
 
