@@ -2,7 +2,7 @@
 Desenvolvedor Frontend e UI designer, entusiasta de tecnologia e criação/criatividade. Atualmente estudando e pregando pequenos Freelas!
 
  ## 💻 Perícia
-<p> Atualmente estou em busca de uma oportunidade, Frontend junior. E sigo desenvolvendo landing page para comércios locais </p>
+<p> Atualmente estou em busca de uma oportunidade, Frontend E sigo desenvolvendo landing page para comércios locais </p>
 <p>
 Busco resolver o problema das pessoas através da tecnologia, de forma visualmente simples e agradável. Sou muito grato de ter feito um curso técnico em informática, que me fez conhecer esse mundo de Desenvolvimento que até então não fazia ideia de como era, e agora através disso posso estar ajudando pessoas com meu conhecimento.
 </p>
