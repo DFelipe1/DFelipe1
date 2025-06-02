@@ -26,9 +26,5 @@ Busco resolver o problema das pessoas através da tecnologia, de forma visualmen
   <a href="https://www.linkedin.com/in/lipedev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 
 <br>
-<div>
-  <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=DFelipe1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" margin-right="5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DFelipe1&layout=compact&langs_count=7&theme=radical"/>
-</div>
 <br>
 
